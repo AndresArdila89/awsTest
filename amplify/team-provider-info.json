@@ -1,18 +1,15 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-scrumfitapp-dev-142021-authRole",
-            "UnauthRoleArn": "arn:aws:iam::143816052954:role/amplify-scrumfitapp-dev-142021-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::143816052954:role/amplify-scrumfitapp-dev-142021-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-scrumfitapp-dev-142021-deployment",
-            "UnauthRoleName": "amplify-scrumfitapp-dev-142021-unauthRole",
-            "StackName": "amplify-scrumfitapp-dev-142021",
-            "StackId": "arn:aws:cloudformation:us-east-1:143816052954:stack/amplify-scrumfitapp-dev-142021/1a888770-05a5-11eb-adf5-0ecdc090d557",
-            "AmplifyAppId": "d2r21lo80awcpd"
-        },
-        "categories": {
-            
-        }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-scrumfitapp-dev-145524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143816052954:role/amplify-scrumfitapp-dev-145524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143816052954:role/amplify-scrumfitapp-dev-145524-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-scrumfitapp-dev-145524-deployment",
+      "UnauthRoleName": "amplify-scrumfitapp-dev-145524-unauthRole",
+      "StackName": "amplify-scrumfitapp-dev-145524",
+      "StackId": "arn:aws:cloudformation:us-east-1:143816052954:stack/amplify-scrumfitapp-dev-145524/ff7aec70-05a9-11eb-940f-0a63dd50faa5",
+      "AmplifyAppId": "d2ftxutaxql3kh"
     }
+  }
 }
